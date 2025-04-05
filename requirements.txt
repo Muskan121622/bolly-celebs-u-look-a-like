@@ -1,4 +1,10 @@
-streamlit
+
 scikit-learn
+ # this is often needed too
+streamlit
+tensorflow
+keras
 keras-vggface
-keras-applications  # this is often needed too
+keras-applications
+numpy
+Pillow
