@@ -1,12 +1,19 @@
 
 scikit-learn
  # this is often needed too
-streamlit
-tensorflow
-keras
-keras-vggface
-keras-applications
+
+
+
+
+
+
+
+
+
+tensorflow==2.6.2
+keras==2.6.0
+keras-vggface==0.6
+keras-applications==1.0.8
 numpy
 Pillow
-keras==2.6.0
-tensorflow==2.6.0
+streamlit
