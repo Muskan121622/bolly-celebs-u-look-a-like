@@ -1,2 +1,4 @@
 streamlit
 scikit-learn
+keras-vggface
+keras-applications  # this is often needed too
