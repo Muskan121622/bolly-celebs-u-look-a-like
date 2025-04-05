@@ -1,4 +1,4 @@
-keras-vggface
+keras==2.3.1
 keras-applications
 scikit-learn
 Pillow
@@ -6,4 +6,4 @@ streamlit==1.22.0
 numpy
 tensorflow==2.12.0
 
-
+keras-vggface
